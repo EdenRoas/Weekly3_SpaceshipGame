@@ -1,4 +1,4 @@
-# SpaceshipGam By Eden Roas
+# SpaceShips Game By Eden Roas
 This repository contains an enhanced version of the spaceship game originally forked from: [gamedev-at-ariel/02-prefabs-triggers](https://github.com/gamedev-at-ariel/02-prefabs-triggers).                             
 The enhanced version includes additional functionalities to make the game more engaging.
 
