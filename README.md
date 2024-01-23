@@ -3,7 +3,7 @@ This repository contains an enhanced version of the spaceship game originally fo
 The enhanced version includes additional functionalities to make the game more engaging.
 
 ## Game Link:
-You can play the enhanced version of the spaceship game on itch.io:
+You can play the enhanced version of the spaceship game on itch.io: https://edenxhadar.itch.io/spaceship-game-eden-roas
 
  ## How To Play?
  1.Move the Spaceships: Use the arrow keys and the WASD to navigate the spaceships across the screen.
