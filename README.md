@@ -1,4 +1,5 @@
 # Spaceship Game - Enhanced Version By Eden Roas
+
 This repository contains an enhanced version of the spaceship game originally forked from gamedev-at-ariel/02-prefabs-triggers. 
 
 ### How to Play-
@@ -22,12 +23,16 @@ Game Link
 You can play the enhanced version of the spaceship game on itch.io: [Spaceship Game - Eden](https://edenxhadar.itch.io/spaceship-game-eden-roas)
 
 ### Added Functionalities
+
 Player HP:
+
 The player now starts with 3 HP.
 Another Player:
+
 I added another player, and now you can compete against each other.
 
 ### Game Over screen:
+
 When HP reaches 0, the game will move to the Game Over screen
 
 ### Credits
