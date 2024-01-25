@@ -4,16 +4,22 @@ This repository contains an enhanced version of the spaceship game originally fo
 ### How to Play-
 
 Move the Spaceship:
+
 Use the arrow keys and WASD to navigate the spaceships across the screen.
 
-Shoot Enemies: Press the spacebar & Z to shoot projectiles and destroy enemy spaceships.
+Shoot Enemies:
 
-Health Points (HP): The player now starts with 3 health points (HP).
+Press the spacebar & Z to shoot projectiles and destroy enemy spaceships.
+
+Health Points (HP):
+
+The player now starts with 3 health points (HP).
 
 ### Game Over: 
+
 If the player's HP reaches 0, the game transitions to the Game Over screen.
 Game Link
-You can play the enhanced version of the spaceship game on itch.io: Spaceship Game - Ofek
+You can play the enhanced version of the spaceship game on itch.io: [Spaceship Game - Eden](https://edenxhadar.itch.io/spaceship-game-eden-roas)
 
 ### Added Functionalities
 Player HP:
