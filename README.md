@@ -37,5 +37,7 @@ I added another player, and now you can compete against each other.
 When HP reaches 0, the game will move to the Game Over screen
 
 ### Credits
+
 Original code: gamedev-at-ariel/02-prefabs-triggers
+
 Enhanced by: Eden Roas
