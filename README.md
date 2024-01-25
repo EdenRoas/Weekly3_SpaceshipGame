@@ -19,6 +19,7 @@ The player now starts with 3 health points (HP).
 ### Game Over: 
 
 If the player's HP reaches 0, the game transitions to the Game Over screen.
+
 Game Link
 You can play the enhanced version of the spaceship game on itch.io: [Spaceship Game - Eden](https://edenxhadar.itch.io/spaceship-game-eden-roas)
 
