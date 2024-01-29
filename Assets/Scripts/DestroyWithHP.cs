@@ -23,7 +23,6 @@ public class DestroyWithHP : MonoBehaviour
                 //We Are Death
                 SceneManager.LoadScene(GameOverSceneName);    // Input can either be a serial number or a name; here we use name.
 
-
             }
             Destroy(other.gameObject);
         }
